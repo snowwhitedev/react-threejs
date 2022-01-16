@@ -1,0 +1,16 @@
+.side-menu {
+  width: 280px;
+  min-width: 280px;
+  background: #ffffff;
+  color: #050505;
+  padding: 10px;
+  margin: 0;
+  list-style: none;
+  box-sizing: border-box;
+}
+.side-menu li {
+  color: #050505;
+}
+.side-nav-item {
+  color: #050505;
+}
